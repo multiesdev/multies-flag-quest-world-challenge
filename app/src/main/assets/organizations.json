@@ -1,0 +1,126 @@
+{
+  "verifiedAsOf": "2026-07-19",
+  "organizations": [
+    {
+      "id": "EU",
+      "nameEn": "European Union",
+      "nameAr": "الاتحاد الأوروبي",
+      "nameDe": "Europäische Union",
+      "nameFr": "Union européenne",
+      "fullMembers": ["FR", "DE", "IT", "ES", "SE", "FI"],
+      "candidates": ["TR"],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "Arab League",
+      "nameEn": "Arab League",
+      "nameAr": "جامعة الدول العربية",
+      "nameDe": "Arabische Liga",
+      "nameFr": "Ligue arabe",
+      "fullMembers": ["SA", "EG", "DZ", "MA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "NATO",
+      "nameEn": "NATO",
+      "nameAr": "حلف الناتو",
+      "nameDe": "NATO",
+      "nameFr": "OTAN",
+      "fullMembers": ["US", "FR", "DE", "GB", "IT", "ES", "SE", "NO", "FI", "IS"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "BRICS",
+      "nameEn": "BRICS",
+      "nameAr": "بريكس",
+      "nameDe": "BRICS",
+      "nameFr": "BRICS",
+      "fullMembers": ["BR", "RU", "IN", "CN", "ZA", "EG", "SA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "African Union",
+      "nameEn": "African Union",
+      "nameAr": "الاتحاد الأفريقي",
+      "nameDe": "Afrikanische Union",
+      "nameFr": "Union africaine",
+      "fullMembers": ["EG", "ZA", "KE", "NG", "DZ", "MA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "ASEAN",
+      "nameEn": "ASEAN",
+      "nameAr": "آسيان",
+      "nameDe": "ASEAN",
+      "nameFr": "ASEAN",
+      "fullMembers": ["ID", "VN"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "GCC",
+      "nameEn": "GCC",
+      "nameAr": "مجلس التعاون الخليجي",
+      "nameDe": "GCC",
+      "nameFr": "CCG",
+      "fullMembers": ["SA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "G7",
+      "nameEn": "G7",
+      "nameAr": "مجموعة السبع",
+      "nameDe": "G7",
+      "nameFr": "G7",
+      "fullMembers": ["US", "FR", "DE", "JP", "GB", "IT", "CA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "G20",
+      "nameEn": "G20",
+      "nameAr": "مجموعة العشرين",
+      "nameDe": "G20",
+      "nameFr": "G20",
+      "fullMembers": ["US", "SA", "FR", "DE", "JP", "BR", "GB", "IN", "CN", "RU", "TR", "AR", "IT", "KR", "NG", "ID", "ZA"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "Mercosur",
+      "nameEn": "Mercosur",
+      "nameAr": "ميركوسور",
+      "nameDe": "Mercosur",
+      "nameFr": "Mercosur",
+      "fullMembers": ["BR", "AR"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    },
+    {
+      "id": "Commonwealth",
+      "nameEn": "Commonwealth of Nations",
+      "nameAr": "دول الكومنولث",
+      "nameDe": "Commonwealth of Nations",
+      "nameFr": "Commonwealth",
+      "fullMembers": ["GB", "CA", "AU", "ZA", "IN", "NZ", "KE", "FJ"],
+      "candidates": [],
+      "observers": [],
+      "suspended": []
+    }
+  ]
+}

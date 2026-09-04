@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Masters: World Quiz",
+  "description": "Atlas Masters: World Quiz - Explore Countries. Master the World. An educational, interactive geography game testing your knowledge of flags, countries, capitals, populations, and more!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

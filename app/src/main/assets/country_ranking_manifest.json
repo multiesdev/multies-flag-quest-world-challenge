@@ -1,0 +1,1370 @@
+[
+  {
+    "countryId": "US",
+    "isoCode": "US",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "SA",
+    "isoCode": "SA",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "FR",
+    "isoCode": "FR",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "DE",
+    "isoCode": "DE",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "JP",
+    "isoCode": "JP",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "BR",
+    "isoCode": "BR",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "EG",
+    "isoCode": "EG",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "AU",
+    "isoCode": "AU",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "CA",
+    "isoCode": "CA",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "ZA",
+    "isoCode": "ZA",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "GB",
+    "isoCode": "GB",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "IN",
+    "isoCode": "IN",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "CN",
+    "isoCode": "CN",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "RU",
+    "isoCode": "RU",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "TR",
+    "isoCode": "TR",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "NZ",
+    "isoCode": "NZ",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "MX",
+    "isoCode": "MX",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "AR",
+    "isoCode": "AR",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "IT",
+    "isoCode": "IT",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "ES",
+    "isoCode": "ES",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "KR",
+    "isoCode": "KR",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "KE",
+    "isoCode": "KE",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "NG",
+    "isoCode": "NG",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "ID",
+    "isoCode": "ID",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "CH",
+    "isoCode": "CH",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "SE",
+    "isoCode": "SE",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "NO",
+    "isoCode": "NO",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "FI",
+    "isoCode": "FI",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "DZ",
+    "isoCode": "DZ",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "MA",
+    "isoCode": "MA",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "IS",
+    "isoCode": "IS",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "FJ",
+    "isoCode": "FJ",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "CO",
+    "isoCode": "CO",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "VN",
+    "isoCode": "VN",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "CL",
+    "isoCode": "CL",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  },
+  {
+    "countryId": "PH",
+    "isoCode": "PH",
+    "sources": {
+      "areaSqKm": {
+        "source": "UN Statistics Division / World Bank",
+        "url": "https://data.worldbank.org/indicator/AG.SRF.TOTL.K2",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      },
+      "population": {
+        "source": "UN Population Division",
+        "referenceYear": 2026,
+        "url": "https://population.un.org/wpp/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "highestElevationMeters": {
+        "source": "CIA World Factbook / Peakbagger",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "coastlineKm": {
+        "source": "CIA World Factbook",
+        "url": "https://www.cia.gov/the-world-factbook/",
+        "retrievalDate": "2026-07-23",
+        "license": "Public Domain"
+      },
+      "capitalCoordinates": {
+        "source": "GeoNames / Natural Earth",
+        "url": "https://www.geonames.org/",
+        "retrievalDate": "2026-07-23",
+        "license": "CC-BY-4.0"
+      }
+    },
+    "validationStatus": "APPROVED"
+  }
+]

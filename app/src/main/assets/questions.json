@@ -1,0 +1,152 @@
+[
+  {
+    "id": "q_lvl1", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 1, "timerDuration": 0, "correctId": "US", "choiceIds": ["US", "FR", "DE"], "correctOptionIndex": 0, "countryId": "US",
+    "questionTextEn": "Which country does this flag belong to? 🇺🇸", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇺🇸", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇺🇸", "questionTextFr": "À quel pays appartient ce drapeau ? 🇺🇸",
+    "optionsEn": ["United States", "France", "Germany"], "optionsAr": ["الولايات المتحدة", "فرنسا", "ألمانيا"], "optionsDe": ["Vereinigte Staaten", "Frankreich", "Deutschland"], "optionsFr": ["États-Unis", "France", "Allemagne"]
+  },
+  {
+    "id": "q_lvl2", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 2, "timerDuration": 0, "correctId": "FR", "choiceIds": ["SA", "FR", "JP"], "correctOptionIndex": 1, "countryId": "FR",
+    "questionTextEn": "Which country does this flag belong to? 🇫🇷", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇫🇷", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇫🇷", "questionTextFr": "À quel pays appartient ce drapeau ? 🇫🇷",
+    "optionsEn": ["Saudi Arabia", "France", "Japan"], "optionsAr": ["المملكة العربية السعودية", "فرنسا", "اليابان"], "optionsDe": ["Saudi-Arabien", "Frankreich", "Japan"], "optionsFr": ["Arabie Saoudite", "France", "Japon"]
+  },
+  {
+    "id": "q_lvl3", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 3, "timerDuration": 0, "correctId": "SA", "choiceIds": ["SA", "US", "DE"], "correctOptionIndex": 0, "countryId": "SA",
+    "questionTextEn": "Which country does this flag belong to? 🇸🇦", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇸🇦", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇸🇦", "questionTextFr": "À quel pays appartient ce drapeau ? 🇸🇦",
+    "optionsEn": ["Saudi Arabia", "United States", "Germany"], "optionsAr": ["المملكة العربية السعودية", "الولايات المتحدة", "ألمانيا"], "optionsDe": ["Saudi-Arabien", "Vereinigte Staaten", "Deutschland"], "optionsFr": ["Arabie Saoudite", "États-Unis", "Allemagne"]
+  },
+  {
+    "id": "q_lvl4", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 4, "timerDuration": 0, "correctId": "DE", "choiceIds": ["FR", "JP", "DE"], "correctOptionIndex": 2, "countryId": "DE",
+    "questionTextEn": "Which country does this flag belong to? 🇩🇪", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇩🇪", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇩🇪", "questionTextFr": "À quel pays appartient ce drapeau ? 🇩🇪",
+    "optionsEn": ["France", "Japan", "Germany"], "optionsAr": ["فرنسا", "اليابان", "ألمانيا"], "optionsDe": ["Frankreich", "Japan", "Deutschland"], "optionsFr": ["France", "Japon", "Allemagne"]
+  },
+  {
+    "id": "q_lvl5", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 5, "timerDuration": 0, "correctId": "JP", "choiceIds": ["JP", "SA", "US"], "correctOptionIndex": 0, "countryId": "JP",
+    "questionTextEn": "Which country does this flag belong to? 🇯🇵", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇯🇵", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇯🇵", "questionTextFr": "À quel pays appartient ce drapeau ? 🇯🇵",
+    "optionsEn": ["Japan", "Saudi Arabia", "United States"], "optionsAr": ["اليابان", "المملكة العربية السعودية", "الولايات المتحدة"], "optionsDe": ["Japan", "Saudi-Arabien", "Vereinigte Staaten"], "optionsFr": ["Japon", "Arabie Saoudite", "États-Unis"]
+  },
+  {
+    "id": "q_lvl6", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 6, "timerDuration": 0, "correctId": "CA", "choiceIds": ["US", "CA", "FR"], "correctOptionIndex": 1, "countryId": "CA",
+    "questionTextEn": "Which country does this flag belong to? 🇨🇦", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇨🇦", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇨🇦", "questionTextFr": "À quel pays appartient ce drapeau ? 🇨🇦",
+    "optionsEn": ["United States", "Canada", "France"], "optionsAr": ["الولايات المتحدة", "كندا", "فرنسا"], "optionsDe": ["Vereinigte Staaten", "Kanada", "Frankreich"], "optionsFr": ["États-Unis", "Canada", "France"]
+  },
+  {
+    "id": "q_lvl7", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 7, "timerDuration": 0, "correctId": "GB", "choiceIds": ["DE", "FR", "GB"], "correctOptionIndex": 2, "countryId": "GB",
+    "questionTextEn": "Which country does this flag belong to? 🇬🇧", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇬🇧", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇬🇧", "questionTextFr": "À quel pays appartient ce drapeau ? 🇬🇧",
+    "optionsEn": ["Germany", "France", "United Kingdom"], "optionsAr": ["ألمانيا", "فرنسا", "المملكة المتحدة"], "optionsDe": ["Deutschland", "Frankreich", "Vereinigtes Königreich"], "optionsFr": ["Allemagne", "France", "Royaume-Uni"]
+  },
+  {
+    "id": "q_lvl8", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 8, "timerDuration": 0, "correctId": "AU", "choiceIds": ["AU", "US", "JP"], "correctOptionIndex": 0, "countryId": "AU",
+    "questionTextEn": "Which country does this flag belong to? 🇦🇺", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇦🇺", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇦🇺", "questionTextFr": "À quel pays appartient ce drapeau ? 🇦🇺",
+    "optionsEn": ["Australia", "United States", "Japan"], "optionsAr": ["أستراليا", "الولايات المتحدة", "اليابان"], "optionsDe": ["Australien", "Vereinigte Staaten", "Japan"], "optionsFr": ["Australie", "États-Unis", "Japon"]
+  },
+  {
+    "id": "q_lvl9", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 9, "timerDuration": 0, "correctId": "IN", "choiceIds": ["JP", "IN", "SA"], "correctOptionIndex": 1, "countryId": "IN",
+    "questionTextEn": "Which country does this flag belong to? 🇮🇳", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇮🇳", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇮🇳", "questionTextFr": "À quel pays appartient ce drapeau ? 🇮🇳",
+    "optionsEn": ["Japan", "India", "Saudi Arabia"], "optionsAr": ["اليابان", "الهند", "المملكة العربية السعودية"], "optionsDe": ["Japan", "Indien", "Saudi-Arabien"], "optionsFr": ["Japon", "Inde", "Arabie Saoudite"]
+  },
+  {
+    "id": "q_lvl10", "category": "FLAGS", "difficulty": "EASY", "requiredLevel": 10, "timerDuration": 0, "correctId": "CN", "choiceIds": ["JP", "DE", "CN"], "correctOptionIndex": 2, "countryId": "CN",
+    "questionTextEn": "Which country does this flag belong to? 🇨🇳", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇨🇳", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇨🇳", "questionTextFr": "À quel pays appartient ce drapeau ? 🇨🇳",
+    "optionsEn": ["Japan", "Germany", "China"], "optionsAr": ["اليابان", "ألمانيا", "الصين"], "optionsDe": ["Japan", "Deutschland", "China"], "optionsFr": ["Japon", "Allemagne", "Chine"]
+  },
+  {
+    "id": "q_lvl11", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 11, "timerDuration": 0, "correctId": "BR", "choiceIds": ["BR", "AR", "CO", "MX"], "correctOptionIndex": 0, "countryId": "BR",
+    "questionTextEn": "Which country does this flag belong to? 🇧🇷", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇧🇷", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇧🇷", "questionTextFr": "À quel pays appartient ce drapeau ? 🇧🇷",
+    "optionsEn": ["Brazil", "Argentina", "Colombia", "Mexico"], "optionsAr": ["البرازيل", "الأرجنتين", "كولومبيا", "المكسيك"], "optionsDe": ["Brasilien", "Argentinien", "Kolumbien", "Mexiko"], "optionsFr": ["Brésil", "Argentine", "Colombie", "Mexique"]
+  },
+  {
+    "id": "q_lvl12", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 12, "timerDuration": 0, "correctId": "EG", "choiceIds": ["SA", "EG", "DZ", "MA"], "correctOptionIndex": 1, "countryId": "EG",
+    "questionTextEn": "Which country does this flag belong to? 🇪🇬", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇪🇬", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇪🇬", "questionTextFr": "À quel pays appartient ce drapeau ? 🇪🇬",
+    "optionsEn": ["Saudi Arabia", "Egypt", "Algeria", "Morocco"], "optionsAr": ["المملكة العربية السعودية", "مصر", "الجزائر", "المغرب"], "optionsDe": ["Saudi-Arabien", "Ägypten", "Algerien", "Marokko"], "optionsFr": ["Arabie Saoudite", "Égypte", "Algérie", "Maroc"]
+  },
+  {
+    "id": "q_lvl13", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 13, "timerDuration": 0, "correctId": "ZA", "choiceIds": ["KE", "NG", "ZA", "DZ"], "correctOptionIndex": 2, "countryId": "ZA",
+    "questionTextEn": "Which country does this flag belong to? 🇿🇦", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇿🇦", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇿🇦", "questionTextFr": "À quel pays appartient ce drapeau ? 🇿🇦",
+    "optionsEn": ["Kenya", "Nigeria", "South Africa", "Algeria"], "optionsAr": ["كينيا", "نيجيريا", "جنوب أفريقيا", "الجزائر"], "optionsDe": ["Kenia", "Nigeria", "Südafrika", "Algerien"], "optionsFr": ["Kenya", "Nigéria", "Afrique du Sud", "Algérie"]
+  },
+  {
+    "id": "q_lvl14", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 14, "timerDuration": 0, "correctId": "RU", "choiceIds": ["FR", "DE", "SE", "RU"], "correctOptionIndex": 3, "countryId": "RU",
+    "questionTextEn": "Which country does this flag belong to? 🇷🇺", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇷🇺", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇷🇺", "questionTextFr": "À quel pays appartient ce drapeau ? 🇷🇺",
+    "optionsEn": ["France", "Germany", "Sweden", "Russia"], "optionsAr": ["فرنسا", "ألمانيا", "السويد", "روسيا"], "optionsDe": ["Frankreich", "Deutschland", "Schweden", "Russland"], "optionsFr": ["France", "Allemagne", "Suède", "Russie"]
+  },
+  {
+    "id": "q_lvl15", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 15, "timerDuration": 0, "correctId": "TR", "choiceIds": ["TR", "EG", "SA", "ID"], "correctOptionIndex": 0, "countryId": "TR",
+    "questionTextEn": "Which country does this flag belong to? 🇹🇷", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇹🇷", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇹🇷", "questionTextFr": "À quel pays appartient ce drapeau ? 🇹🇷",
+    "optionsEn": ["Turkey", "Egypt", "Saudi Arabia", "Indonesia"], "optionsAr": ["تركيا", "مصر", "المملكة العربية السعودية", "إندونيسيا"], "optionsDe": ["Türkei", "Ägypten", "Saudi-Arabien", "Indonesien"], "optionsFr": ["Turquie", "Égypte", "Arabie Saoudite", "Indonésie"]
+  },
+  {
+    "id": "q_lvl16", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 16, "timerDuration": 0, "correctId": "MX", "choiceIds": ["CO", "MX", "BR", "AR"], "correctOptionIndex": 1, "countryId": "MX",
+    "questionTextEn": "Which country does this flag belong to? 🇲🇽", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇲🇽", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇲🇽", "questionTextFr": "À quel pays appartient ce drapeau ? 🇲🇽",
+    "optionsEn": ["Colombia", "Mexico", "Brazil", "Argentina"], "optionsAr": ["كولومبيا", "المكسيك", "البرازيل", "الأرجنتين"], "optionsDe": ["Kolumbien", "Mexiko", "Brasilien", "Argentinien"], "optionsFr": ["Colombie", "Mexique", "Brésil", "Argentine"]
+  },
+  {
+    "id": "q_lvl17", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 17, "timerDuration": 0, "correctId": "AR", "choiceIds": ["BR", "CO", "AR", "MX"], "correctOptionIndex": 2, "countryId": "AR",
+    "questionTextEn": "Which country does this flag belong to? 🇦🇷", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇦🇷", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇦🇷", "questionTextFr": "À quel pays appartient ce drapeau ? 🇦🇷",
+    "optionsEn": ["Brazil", "Colombia", "Argentina", "Mexico"], "optionsAr": ["البرازيل", "كولومبيا", "الأرجنتين", "المكسيك"], "optionsDe": ["Brasilien", "Kolumbien", "Argentinien", "Mexiko"], "optionsFr": ["Brésil", "Colombie", "Argentine", "Mexique"]
+  },
+  {
+    "id": "q_lvl18", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 18, "timerDuration": 0, "correctId": "IT", "choiceIds": ["FR", "DE", "ES", "IT"], "correctOptionIndex": 3, "countryId": "IT",
+    "questionTextEn": "Which country does this flag belong to? 🇮🇹", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇮🇹", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇮🇹", "questionTextFr": "À quel pays appartient ce drapeau ? 🇮🇹",
+    "optionsEn": ["France", "Germany", "Spain", "Italy"], "optionsAr": ["فرنسا", "ألمانيا", "إسبانيا", "إيطاليا"], "optionsDe": ["Frankreich", "Deutschland", "Spanien", "Italien"], "optionsFr": ["France", "Allemagne", "Espagne", "Italie"]
+  },
+  {
+    "id": "q_lvl19", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 19, "timerDuration": 0, "correctId": "ES", "choiceIds": ["ES", "FR", "IT", "DE"], "correctOptionIndex": 0, "countryId": "ES",
+    "questionTextEn": "Which country does this flag belong to? 🇪🇸", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇪🇸", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇪🇸", "questionTextFr": "À quel pays appartient ce drapeau ? 🇪🇸",
+    "optionsEn": ["Spain", "France", "Italy", "Germany"], "optionsAr": ["إسبانيا", "فرنسا", "إيطاليا", "ألمانيا"], "optionsDe": ["Spanien", "Frankreich", "Italien", "Deutschland"], "optionsFr": ["Espagne", "France", "Italie", "Allemagne"]
+  },
+  {
+    "id": "q_lvl20", "category": "FLAGS", "difficulty": "MEDIUM", "requiredLevel": 20, "timerDuration": 0, "correctId": "KR", "choiceIds": ["JP", "KR", "CN", "IN"], "correctOptionIndex": 1, "countryId": "KR",
+    "questionTextEn": "Which country does this flag belong to? 🇰🇷", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇰🇷", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇰🇷", "questionTextFr": "À quel pays appartient ce drapeau ? 🇰🇷",
+    "optionsEn": ["Japan", "South Korea", "China", "India"], "optionsAr": ["اليابان", "كوريا الجنوبية", "الصين", "الهند"], "optionsDe": ["Japan", "Südkorea", "China", "Indien"], "optionsFr": ["Japon", "Corée du Sud", "Chine", "Inde"]
+  },
+  {
+    "id": "q_lvl21", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 21, "timerDuration": 20, "correctId": "NZ", "choiceIds": ["AU", "NZ", "FJ", "GB"], "correctOptionIndex": 1, "countryId": "NZ",
+    "questionTextEn": "Which country does this flag belong to? 🇳🇿", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇳🇿", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇳🇿", "questionTextFr": "À quel pays appartient ce drapeau ? 🇳🇿",
+    "optionsEn": ["Australia", "New Zealand", "Fiji", "United Kingdom"], "optionsAr": ["أستراليا", "نيوزيلندا", "فيجي", "المملكة المتحدة"], "optionsDe": ["Australien", "Neuseeland", "Fidschi", "Vereinigtes Königreich"], "optionsFr": ["Australie", "Nouvelle-Zélande", "Fidji", "Royaume-Uni"]
+  },
+  {
+    "id": "q_lvl22", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 22, "timerDuration": 20, "correctId": "KE", "choiceIds": ["NG", "ZA", "KE", "DZ"], "correctOptionIndex": 2, "countryId": "KE",
+    "questionTextEn": "Which country does this flag belong to? 🇰🇪", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇰🇪", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇰🇪", "questionTextFr": "À quel pays appartient ce drapeau ? 🇰🇪",
+    "optionsEn": ["Nigeria", "South Africa", "Kenya", "Algeria"], "optionsAr": ["نيجيريا", "جنوب أفريقيا", "كينيا", "الجزائر"], "optionsDe": ["Nigeria", "Südafrika", "Kenia", "Algerien"], "optionsFr": ["Nigéria", "Afrique du Sud", "Kenya", "Algérie"]
+  },
+  {
+    "id": "q_lvl23", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 23, "timerDuration": 20, "correctId": "NG", "choiceIds": ["KE", "DZ", "MA", "NG"], "correctOptionIndex": 3, "countryId": "NG",
+    "questionTextEn": "Which country does this flag belong to? 🇳🇬", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇳🇬", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇳🇬", "questionTextFr": "À quel pays appartient ce drapeau ? 🇳🇬",
+    "optionsEn": ["Kenya", "Algeria", "Morocco", "Nigeria"], "optionsAr": ["كينيا", "الجزائر", "المغرب", "نيجيريا"], "optionsDe": ["Kenia", "Algerien", "Marokko", "Nigeria"], "optionsFr": ["Kenya", "Algérie", "Maroc", "Nigéria"]
+  },
+  {
+    "id": "q_lvl24", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 24, "timerDuration": 20, "correctId": "ID", "choiceIds": ["ID", "VN", "JP", "CN"], "correctOptionIndex": 0, "countryId": "ID",
+    "questionTextEn": "Which country does this flag belong to? 🇮🇩", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇮🇩", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇮🇩", "questionTextFr": "À quel pays appartient ce drapeau ? 🇮🇩",
+    "optionsEn": ["Indonesia", "Vietnam", "Japan", "China"], "optionsAr": ["إندونيسيا", "فيتنام", "اليابان", "الصين"], "optionsDe": ["Indonesien", "Vietnam", "Japan", "China"], "optionsFr": ["Indonésie", "Viêt Nam", "Japon", "Chine"]
+  },
+  {
+    "id": "q_lvl25", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 25, "timerDuration": 20, "correctId": "CH", "choiceIds": ["DE", "CH", "FR", "IT"], "correctOptionIndex": 1, "countryId": "CH",
+    "questionTextEn": "Which country does this flag belong to? 🇨🇭", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇨🇭", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇨🇭", "questionTextFr": "À quel pays appartient ce drapeau ? 🇨🇭",
+    "optionsEn": ["Germany", "Switzerland", "France", "Italy"], "optionsAr": ["ألمانيا", "سويسرا", "فرنسا", "إيطاليا"], "optionsDe": ["Deutschland", "Schweiz", "Frankreich", "Italien"], "optionsFr": ["Allemagne", "Suisse", "France", "Italie"]
+  },
+  {
+    "id": "q_lvl26", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 26, "timerDuration": 20, "correctId": "SE", "choiceIds": ["NO", "FI", "SE", "IS"], "correctOptionIndex": 2, "countryId": "SE",
+    "questionTextEn": "Which country does this flag belong to? 🇸🇪", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇸🇪", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇸🇪", "questionTextFr": "À quel pays appartient ce drapeau ? 🇸🇪",
+    "optionsEn": ["Norway", "Finland", "Sweden", "Iceland"], "optionsAr": ["النرويج", "فنلندا", "السويد", "آيسلندا"], "optionsDe": ["Norwegen", "Finnland", "Schweden", "Island"], "optionsFr": ["Norvège", "Finlande", "Suède", "Islande"]
+  },
+  {
+    "id": "q_lvl27", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 27, "timerDuration": 20, "correctId": "NO", "choiceIds": ["SE", "FI", "IS", "NO"], "correctOptionIndex": 3, "countryId": "NO",
+    "questionTextEn": "Which country does this flag belong to? 🇳🇴", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇳🇴", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇳🇴", "questionTextFr": "À quel pays appartient ce drapeau ? 🇳🇴",
+    "optionsEn": ["Sweden", "Finland", "Iceland", "Norway"], "optionsAr": ["السويد", "فنلندا", "آيسلندا", "النرويج"], "optionsDe": ["Schweden", "Finnland", "Island", "Norwegen"], "optionsFr": ["Suède", "Finlande", "Islande", "Norvège"]
+  },
+  {
+    "id": "q_lvl28", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 28, "timerDuration": 20, "correctId": "FI", "choiceIds": ["FI", "SE", "NO", "IS"], "correctOptionIndex": 0, "countryId": "FI",
+    "questionTextEn": "Which country does this flag belong to? 🇫🇮", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇫🇮", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇫🇮", "questionTextFr": "À quel pays appartient ce drapeau ? 🇫🇮",
+    "optionsEn": ["Finland", "Sweden", "Norway", "Iceland"], "optionsAr": ["فنلندا", "السويد", "النرويج", "آيسلندا"], "optionsDe": ["Finnland", "Schweden", "Norwegen", "Island"], "optionsFr": ["Finlande", "Suède", "Norvège", "Islande"]
+  },
+  {
+    "id": "q_lvl29", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 29, "timerDuration": 20, "correctId": "DZ", "choiceIds": ["MA", "DZ", "EG", "ZA"], "correctOptionIndex": 1, "countryId": "DZ",
+    "questionTextEn": "Which country does this flag belong to? 🇩🇿", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇩🇿", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇩🇿", "questionTextFr": "À quel pays appartient ce drapeau ? 🇩🇿",
+    "optionsEn": ["Morocco", "Algeria", "Egypt", "South Africa"], "optionsAr": ["المغرب", "الجزائر", "مصر", "جنوب أفريقيا"], "optionsDe": ["Marokko", "Algerien", "Ägypten", "Südafrika"], "optionsFr": ["Maroc", "Algérie", "Égypte", "Afrique du Sud"]
+  },
+  {
+    "id": "q_lvl30", "category": "FLAGS", "difficulty": "HARD", "requiredLevel": 30, "timerDuration": 20, "correctId": "MA", "choiceIds": ["DZ", "EG", "MA", "ZA"], "correctOptionIndex": 2, "countryId": "MA",
+    "questionTextEn": "Which country does this flag belong to? 🇲🇦", "questionTextAr": "إلى أي بلد ينتمي هذا العلم؟ 🇲🇦", "questionTextDe": "Zu welchem Land gehört diese Flagge? 🇲🇦", "questionTextFr": "À quel pays appartient ce drapeau ? 🇲🇦",
+    "optionsEn": ["Algeria", "Egypt", "Morocco", "South Africa"], "optionsAr": ["الجزائر", "مصر", "المغرب", "جنوب أفريقيا"], "optionsDe": ["Algerien", "Ägypten", "Marokko", "Südafrika"], "optionsFr": ["Algérie", "Égypte", "Maroc", "Afrique du Sud"]
+  }
+]
